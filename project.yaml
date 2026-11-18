@@ -26,7 +26,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://volcano.sh/"
 
-artwork: "https://landscape.cncf.io/logos/volcano.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/volcano"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
